@@ -1,0 +1,17 @@
+.content{
+    text-align: center;
+}
+input[type="number"] {
+    width: 300px;
+    padding: 10px;
+    margin: 10px;
+    border: 3px solid #000000;
+    border-radius: 5px;
+    font-size: 16px;
+}
+button{
+    width: 100px;
+    height: 25px;
+    background-color: #c4ca6d;
+    margin-top: 20px;
+}
